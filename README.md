@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fayshaw/data_preprocessing/blob/main/livwell.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fayshaw/data_preprocessing/blob/main/livwell.ipynb)
 
 # Data Preproccesing Workshop
 ## LivWell Dataset: Women and their Well-being for 52 Countries
