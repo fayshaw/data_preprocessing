@@ -10,9 +10,21 @@ This code explores LivWell dataset from the Belmin et al's 2022 Nature paper <a 
 This code wrangles some of their raw data and compares it to their published data set.  This code was written with the assumption that  people have some experience with pandas dataframes and the google colab or jupyter notebook.  In this notebook, I parse strings, filter data, manipulate dataframes, and visualize data with Plotly.
 
 ## How to use
-* This code was specifically written for colab.
-  * Click on the "Open in Colab" button.
+* This code was written using colab.
+  * Click on the "Open in Collar" button.
   * Save a copy of the livwell.ipynb to your own Google drive.
-* Download the csv files in this repository.
-  * The code reads livwell.csv and indicators.csv from urls.
-  * The code reads STATcompilerExport_decision_power.csv and GDL-Mean-International-Wealth-Index-(IWI)-score-of-region-data.csv from Google colab file uploads.
+* Files
+  * Download the files STATcompilerExport_decision_power.csv and GDL-Mean-International-Wealth-Index-(IWI)-score-of-region-data.csv from Google colab file uploads.
+  * This code reads livwell.csv and indicators.csv from urls.
+
+# About the LivWell dataset
+
+## Code 
+The authors provided their R package to access their LivWell dataset <a href="https://gitlab.pik-potsdam.de/belmin/livwelldata">https://gitlab.pik-potsdam.de/belmin/livwelldata</a> and their code to reproduce findings of their paper in <a href="https://gitlab.pik-potsdam.de/belmin/livwelldata-paper/">https://gitlab.pik-potsdam.de/belmin/livwelldata-paper/</a>.
+
+
+## Citation
+Belmin, C., Hoffmann, R., Elkasabi, M. et al. LivWell: a sub-national Dataset on the Living Conditions of Women and their Well-being for 52 Countries. Sci Data 9, 719 (2022). https://doi.org/10.1038/s41597-022-01824-2
+
+## Creative Commons
+This is an open access article distributed under the terms of the Creative Commons CC BY license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
