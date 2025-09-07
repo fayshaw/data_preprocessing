@@ -11,7 +11,7 @@ This code wrangles some of their raw data and compares it to their published dat
 
 ## How to use
 * This code was written using colab.
-  * Click on the "Open in Collar" button.
+  * Click on the "Open in Colab" button.
   * Save a copy of the livwell.ipynb to your own Google drive.
 * Files
   * Download the files STATcompilerExport_decision_power.csv and GDL-Mean-International-Wealth-Index-(IWI)-score-of-region-data.csv from Google colab file uploads.
