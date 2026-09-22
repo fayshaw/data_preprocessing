@@ -1,10 +1,10 @@
 # Data Preprocessing
 ## LivWell Dataset: Women and their Well-being for 52 Countries
 
-### Women in Data and PyLadies Boston 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fayshaw/data_preprocessing/blob/main/livwell.ipynb)
+### Data Preprocessing Basics for MIT WIT ERG 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fayshaw/data_preprocessing/blob/main/livwell_intro.ipynb)
 
-August 21, 2025
+September 23, 2026
 
 This code explores LivWell dataset from the Belmin et al's 2022 Nature paper 
 <a href="https://www.nature.com/articles/s41597-022-01824-2">LivWell: a sub-national 
@@ -25,14 +25,10 @@ filter data, manipulate dataframes, and visualize data with Plotly.
   * Download the files STATcompilerExport_decision_power.csv and GDL-Mean-International-Wealth-Index-(IWI)-score-of-region-data.csv from Google colab file uploads.
   * This code reads livwell.csv and indicators.csv from urls.
 
-# Data Preproccesing Basics 
-### MIT WIT ERG 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fayshaw/data_preprocessing/blob/main/livwell_intro.ipynb)
+### Data Preprocessing Workshop for Women in Data and PyLadies Boston 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fayshaw/data_preprocessing/blob/main/livwell.ipynb)
 
-September 23, 2026
-
-This code is a simplifed version of the colab notebook above. 
-
+August 21, 2025
 
 # About the LivWell dataset
 
